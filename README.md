@@ -3,9 +3,12 @@ this program is used to transfer data from voc2yolo
 
 **step1**：下载我的代码（or自己建立如上图文件结构，注意此时文件夹都是空的）
 				https://github.com/hellogithubsir/data_transfer.git
+				
 **step2**：路径中把VOC数据形式的标签放入Annotations，图片放入images中
+
 **step3**：运行01，02，03后，
 最后:my_datasets就是最后我们要的数据文件夹，“my_datasets”文件夹名字改成你自己要的
+
 **PS**：因为懒得考虑多种意外形式，没做容错处理，但是只要按照我步骤来就没问题。如果真的出来什么问题文件结构如上图所示重来一次就不会出错，公司里也一直用的是这个程序。
 
 下面演示流程及对应输出结果：
