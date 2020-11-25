@@ -18,9 +18,11 @@ this program is used to transfer data from voc2yolo
 
 **step2**：路径中把VOC数据形式的标签放入Annotations，图片放入images中，“my_datasets”文件夹名字改成你自己的
 可以看到已经由空的编程可以文件展开的形式，这里图片太多所以没在载入完我就截图了
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201125110807424.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1Njc5NzAx,size_16,color_FFFFFF,t_70#pic_center)
 
 **step3**：
+
 运行01，在main文件夹下出现了4个txt
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201125111351712.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1Njc5NzAx,size_16,color_FFFFFF,t_70#pic_center)
 运行02后
