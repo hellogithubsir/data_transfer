@@ -1,0 +1,5 @@
+train: ../ship/train/images
+val: ../ship/valid/images
+
+nc: 1
+names: ['ship']
