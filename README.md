@@ -12,8 +12,10 @@ this program is used to transfer data from voc2yolo
 **PS**：因为懒得考虑多种意外形式，没做容错处理，但是只要按照我步骤来就没问题。如果真的出来什么问题文件结构如上图所示重来一次就不会出错，公司里也一直用的是这个程序。
 
 下面演示流程及对应输出结果：
+
 **step1**：下载我的代码（or自己建立如上图文件结构，注意此时文件夹都是空）
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020112511020824.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1Njc5NzAx,size_16,color_FFFFFF,t_70#pic_center)
+
 **step2**：路径中把VOC数据形式的标签放入Annotations，图片放入images中，“my_datasets”文件夹名字改成你自己的
 可以看到已经由空的编程可以文件展开的形式，这里图片太多所以没在载入完我就截图了
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201125110807424.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1Njc5NzAx,size_16,color_FFFFFF,t_70#pic_center)
